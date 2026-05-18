@@ -1,4 +1,4 @@
-# k8-etl-orchestrator
+# k8-secrets-orchestrator
 ## Table of Contents
 - [Abstract](#abstract)
 - [Security Disclaimer](#security-disclaimer)
