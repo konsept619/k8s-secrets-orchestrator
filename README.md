@@ -27,14 +27,14 @@ There are currently several workarounds that may impact security in a production
 ├── README.md
 ├── app
 |     ├── Dockerfile
-|     ├── app.py
+|     └── app.py
 ├── clustersecretstore-vault.yaml
 ├── etl-chart
 |     ├── Chart.yaml
 |     ├── templates
 |     |     ├── Deployment.yaml
-|     |     ├── etl-app-externalsecret.yaml
-|     ├── values.yaml
+|     |     └── etl-app-externalsecret.yaml
+|     └── values.yaml
 ├── etl-eso-policy.hcl
 ├── vault-values.yaml
 
